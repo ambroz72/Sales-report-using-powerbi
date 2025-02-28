@@ -1,7 +1,12 @@
 # Sales Analysis Power BI Dashboard
+
 This repository offers a visually compelling Power BI dashboard for in-depth sales analysis.
 
-![screenshot](srpbi.png)
+![screenshot](CSAR3.png)
+
+
+
+![screenshot](CSAR2.png)
 
 # Key Features:
 
